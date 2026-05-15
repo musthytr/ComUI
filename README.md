@@ -1,3 +1,5 @@
+![Comsole 1 Görüntüsü](example.jpeg)
+
 # Comsole 1 - Retro Mini El Konsolu (ComUI)
 
 Comsole 1, Arduino altyapısı kullanılarak geliştirilmiş, içinde 15 farklı mini oyun ve dinamik bir arayüz (ComUI) barındıran taşınabilir bir retro el konsolu projesidir. ST7735 TFT ekran ve analog joystick modülü ile tamamen entegre çalışır.
