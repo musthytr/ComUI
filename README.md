@@ -9,6 +9,7 @@ Comsole 1, Arduino altyapısı kullanılarak geliştirilmiş, içinde 15 farklı
 * **Dinamik İşletim Sistemi Arayüzü (ComUI 1.0):** Kart tasarımlı minimalist ve mat renk paletine sahip modern menü geçişleri.
 * **15 Farklı Mini Oyun:** 
   * Yılan, Uzay Savaşları, Pong, Kaçış, Zıplama, Nesne Yakalama, Flappy Bird, Yarış, Labirent, Mayın Tarlası, Kaya Kaçışı, Defans, Tetris, Tuğla Kırma, Nişancı.
+  ![Yılan oyunu Görüntüsü](snakegame.jpeg)
 * **Gelişmiş Ayarlar Menüsü:**
   * **Ekran Yönü:** Ekranı ters çevirme (Flip) seçeneği.
   * **Tema Desteği:** Açık (Light) ve Koyu (Dark) tema modları.
